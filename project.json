@@ -1,0 +1,24 @@
+{
+  "overview": "A vertical three-lane racing game where you steer a red sports car, dodge descending traffic, and chase a rising score.",
+  "features": [
+    "Vertical three-lane road with dark gray surface and white lane markings",
+    "Red sports car player vehicle at the bottom of the road",
+    "Traffic cars that spawn at the top and move down automatically",
+    "LEFT and RIGHT buttons plus arrow keys to change lanes",
+    "Live score at the top that rises as you avoid traffic",
+    "Collision detection with a GAME OVER overlay and final score",
+    "Restart button that resets the score and starts a new game",
+    "Traffic speed and spawn rate that increase with your score",
+    "Engine, collision and background music sounds with a music toggle",
+    "Responsive touch-friendly layout for Android phones"
+  ],
+  "category": "game",
+  "tags": [
+    "racing",
+    "arcade",
+    "game",
+    "mobile",
+    "canvas"
+  ],
+  "last_updated": "2026-10-25T18:23:04.759Z"
+}
